@@ -29,11 +29,22 @@ int main(void)
     push(st,7);
     push(st,9);
     push(st,11);
+    print(st);
     printf("full: %s\n",is_full(st) ? "YES" : "NO"); // Стек заполнился, при добавлении следующего элемента в массив, выделится память под еще N элементов 
     push(st,13);
+    print(st);
+    printf("full: %s\n",is_full(st) ? "YES" : "NO");
+    push(st,15);
+    push(st,17);
+    push(st,21);
+    push(st,23);
+    print(st);
+    printf("full: %s\n",is_full(st) ? "YES" : "NO");
+    push(st,25);
     printf("full: %s\n",is_full(st) ? "YES" : "NO");
     print(st);
-    
+
+
     destroy(st); // освобождаем память
 
     return 0;
@@ -67,7 +78,7 @@ int pop(Stack *st){
 
 int is_full(Stack *st)
 {
-    return st->n == N;
+    return st->n == st->size;
 }
 
 void print(Stack *st)
