@@ -7,6 +7,7 @@ Arithmetic:
 
 Array:
 - sort
+- repeats
 
 Stack:
 - array stack
