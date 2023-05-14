@@ -11,8 +11,9 @@ Array:
 - repeats
 
 Matrix:
--dynmx_transposition
--mx multiply
+- dynmx_transposition
+- mx multiply
+- mx90
 
 Stack:
 - array stack
