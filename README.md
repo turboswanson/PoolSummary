@@ -7,7 +7,12 @@ Arithmetic:
 
 Array:
 - sort
+- shift
 - repeats
+
+Matrix:
+-dynmx_transposition
+-mx multiply
 
 Stack:
 - array stack
