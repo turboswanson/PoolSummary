@@ -26,6 +26,7 @@ Stack:
 
 Strings:
 - strlen
+- strcpy
 - capitalization
 
 Node:
