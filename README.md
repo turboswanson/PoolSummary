@@ -14,6 +14,7 @@ Matrix:
 - dynmx_transposition
 - mx multiply
 - mx90
+- snake
 
 Stack:
 - array stack
