@@ -29,4 +29,5 @@ Node:
 Recursion:
 
 - fibo
-- fac 
+- fac
+- pow 
