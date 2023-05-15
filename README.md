@@ -10,6 +10,7 @@ Array:
 - shift
 - repeats
 - insert sort
+- quick sort
 
 Matrix:
 - dynmx_transposition
