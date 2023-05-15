@@ -16,6 +16,7 @@ Matrix:
 - mx90
 - snake
 - spiral
+- sum
 
 Stack:
 - array stack
