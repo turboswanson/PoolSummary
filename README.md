@@ -9,6 +9,7 @@ Array:
 - sort
 - shift
 - repeats
+- insert sort
 
 Matrix:
 - dynmx_transposition
