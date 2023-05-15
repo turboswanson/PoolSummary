@@ -24,6 +24,9 @@ Stack:
 - array stack
 - dynamic array stack
 
+Strings:
+- strlen
+
 Node:
 
 - node
