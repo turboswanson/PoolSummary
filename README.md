@@ -15,6 +15,7 @@ Matrix:
 - mx multiply
 - mx90
 - snake
+- spiral
 
 Stack:
 - array stack
