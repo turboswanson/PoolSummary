@@ -20,6 +20,11 @@ Matrix:
 - spiral
 - sum
 
+File:
+- file
+- makefiletest/mkfile/
+- makefiletest/string/
+
 Stack:
 - array stack
 - dynamic array stack
