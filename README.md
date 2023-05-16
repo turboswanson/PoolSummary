@@ -28,7 +28,7 @@ Strings:
 - strlen
 - strcpy
 - strcmp
-
+- find max lenght word
 - capitalization
 
 Node:
