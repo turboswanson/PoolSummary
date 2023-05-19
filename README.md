@@ -22,6 +22,7 @@ Matrix:
 
 File:
 - file
+- argc and char *argv[]
 - makefiletest/mkfile/
 - makefiletest/string/
 
