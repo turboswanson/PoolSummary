@@ -1,6 +1,7 @@
 # School 21 Pool Summary
 
 Arithmetic:
+- divisor (90 = 2 3^2 5)
 - minmax
 - squaring
 - 3sigm
