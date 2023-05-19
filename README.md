@@ -45,4 +45,5 @@ Recursion:
 
 - fibo
 - fac
-- pow 
+- pow
+- ft_pow (pow(a,x) = b, find x) 
