@@ -35,6 +35,7 @@ Strings:
 - strlen
 - strcpy
 - strcmp
+- atoi ans sprintf ( char -> int and int -> char)
 - find max lenght word
 - capitalization
 
